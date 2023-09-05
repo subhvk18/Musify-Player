@@ -14,15 +14,15 @@ const music = new Audio();
 
 const songs = [
     {
-        path: './assets/music/cold mess.mp3',
+        path: 'assets/music/cold mess.mp3',
         displayName: 'Cold Mess',
-        cover: './assets/img/cold mess.jpg',
+        cover: 'assets/img/cold mess.jpg',
         artist: 'Prateek Kuhad',
     },
     {
         path: 'assets/music/riha.mp3',
         displayName: 'Riha',
-        cover: 'assets/riha.jpg',
+        cover: 'assets/img/riha.jpg',
         artist: 'Anuv Jain',
     },
     {
